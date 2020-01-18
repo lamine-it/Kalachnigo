@@ -23,8 +23,13 @@ Or
 ```text
 go build main.go
 ```
+## Important
 
-**Important:** Make sure that the csv file is in the same folder as the program.
+- Make sure that the csv file is in the same folder as the program.
+- The program works just with double quotes csv files separated with space.
+```csv
+"column 1" "column 2" "column 3" "column 4"
+```
 
 ## Usage
 
