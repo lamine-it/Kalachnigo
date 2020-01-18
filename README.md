@@ -61,4 +61,4 @@ _ ,err = db.Exec("LOAD DATA LOCAL INFILE 'buffer.csv' INTO TABLE " + tableName +
 ```
 ## Links
 
-Project [link](https://drive.google.com/open?id=134GWlmF4X09SwLCEwbkT3Wnx7peD2drM)
+Project [link](https://drive.google.com/open?id=134GWlmF4X09SwLCEwbkT3Wnx7peD2drM).
