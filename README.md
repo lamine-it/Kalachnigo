@@ -24,7 +24,7 @@ Or
 go build main.go
 ```
 
-Important: Make sure that the csv file is in the same folder as the program.
+**Important:** Make sure that the csv file is in the same folder as the program.
 
 ## Usage
 
