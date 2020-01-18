@@ -53,3 +53,6 @@ db, err := sql.Open("mysql", sqlqr) // connection to the database
 ```go
 _ ,err = db.Exec("LOAD DATA LOCAL INFILE 'buffer.csv' INTO TABLE " + tableName + " FIELDS TERMINATED BY '\"'") // write in database
 ```
+## Links
+
+Project [link](https://drive.google.com/open?id=134GWlmF4X09SwLCEwbkT3Wnx7peD2drM)
