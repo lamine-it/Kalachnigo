@@ -1,6 +1,6 @@
 ## Kalachnigo
 Is a fast program to import a large csv file to Mysql database.
-- Video [example](https://www.youtube.com/watch?v=GLI2g12iIqo)
+- Video [example](https://www.youtube.com/watch?v=GLI2g12iIqo).
 
 In the previous video we can notice :
 - Execution time < 90 Seconds
