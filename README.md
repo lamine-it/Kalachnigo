@@ -8,6 +8,7 @@ In the previous video we can notice :
 
 ## Requirements
 - Go MySQL [Driver](https://github.com/go-sql-driver/mysql)
+- [MySql](https://dev.mysql.com/downloads/mysql/)
 
 ## Installation
 - Compile the main.go file.
