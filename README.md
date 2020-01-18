@@ -39,16 +39,16 @@ Completed operation
 Execution time : 70 seconds
 ```
 
-Database name: the name of your database in MySql server.
-User: the username in MySql server.
-Password: the password in MySql server.
+- Database name: the name of your database in MySql server.
+- User: the username in MySql server.
+- Password: the password in MySql server.
 
 ```go
 sqlqr := user + ":" + pass + "@tcp(127.0.0.1:3306)/" + DatabaseName
 db, err := sql.Open("mysql", sqlqr) // connection to the database
 ```
 
-Table name: the name of the table in MySql server.
+- Table name: the name of the table in MySql server.
 
 ```go
 _ ,err = db.Exec("LOAD DATA LOCAL INFILE 'buffer.csv' INTO TABLE " + tableName + " FIELDS TERMINATED BY '\"'") // write in database
